@@ -40,6 +40,9 @@ The platform provides a centralized system where:
 All interactions happen through a simple and efficient web interface.
 
 ---
+## Powerpoint Presentation
+
+https://docs.google.com/presentation/d/1UMaC7liWq-9qDyCaeKdgyLApVU2dehgE/edit?usp=sharing&ouid=107662414788644244359&rtpof=true&sd=true
 
 ##  Key Features
 
